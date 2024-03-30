@@ -2,6 +2,10 @@
 name = "lagrange_interpolation"
 version = "0.1.0"
 edition = "2021"
+authors = ["Ethan Barry <ethan.barry@howdytx.technology>"]
+license = "Unlicense"
+license-file = "UNLICENSE"
+keywords = ["math", "polynomials", "numerics"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
