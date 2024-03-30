@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "lagrange_interpolation"
+name = "lagrangian_interpolation"
 version = "0.1.0"

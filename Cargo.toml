@@ -7,6 +7,7 @@ license = "Unlicense"
 license-file = "UNLICENSE"
 keywords = ["math", "polynomials", "numerics"]
 description = "An algorithm to interpolate between points with polynomials."
+repository = "https://github.com/ethanbarry/lagrange_interpolation"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
