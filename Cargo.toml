@@ -6,6 +6,7 @@ authors = ["Ethan Barry <ethan.barry@howdytx.technology>"]
 license = "Unlicense"
 license-file = "UNLICENSE"
 keywords = ["math", "polynomials", "numerics"]
+description = "An algorithm to interpolate between points with polynomials."
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
